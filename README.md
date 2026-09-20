@@ -2,6 +2,12 @@
 
 自然文から1日の旅行プランを作成するStreamlitアプリです。Geminiで検索条件を構造化し、Google Maps Platformで実在地点・移動時間・交通状況・標高を取得し、Gurobiで巡回順を最適化します。
 
+Sample
+https://michi-trip-planner-hdjsogf5hq-an.a.run.app/
+
+<img width="1519" height="1960" alt="image" src="https://github.com/user-attachments/assets/1190ff31-c6be-424e-81ae-cc5a6cb5c882" />
+
+
 ## Features
 
 - Google Places API (New)で候補地点、評価、カテゴリ、Google Mapsリンクを取得
