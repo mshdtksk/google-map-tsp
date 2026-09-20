@@ -1,0 +1,5 @@
+streamlit==1.49.1
+requests==2.32.5
+python-dotenv==1.1.1
+gurobipy==12.0.3
+pytest==8.4.2
